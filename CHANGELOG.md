@@ -1,5 +1,12 @@
 
 
+## [1.1.1](https://github.com/ionSurf/automated-versioning/compare/1.1.0...1.1.1) (2024-04-02)
+
+
+### Bug Fixes
+
+* fix missing variable in AnotherClass component ([7039e7e](https://github.com/ionSurf/automated-versioning/commit/7039e7e7da720eb4f34d993e49db29c0bcce8904))
+
 ## [1.1.0](https://github.com/ionSurf/automated-versioning/compare/1.0.1...1.1.0) (2024-04-02)
 
 
